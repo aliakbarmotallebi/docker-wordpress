@@ -1,0 +1,9 @@
+# Example themes
+/themes/*
+
+# Example plugin
+/plugins/*
+
+# Uploads
+/uploads/*
+
